@@ -30,6 +30,10 @@ public class MiniHomework {
         //Second input
         int num2 = kb.nextInt();
         
+        int sum = num1+num2;
+        
+        System.out.println("The SUM of " + num1+"+ " +num2+" is " +sum +" !");
+        
         
     }
     
