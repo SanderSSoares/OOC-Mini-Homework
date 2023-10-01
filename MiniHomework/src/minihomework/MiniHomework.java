@@ -4,6 +4,8 @@
  */
 package minihomework;
 
+import java.util.Scanner;
+
 /**
  *
  * @author sande
@@ -23,6 +25,12 @@ public class MiniHomework {
         System.out.println("Please pick a number.");
         //Getting user input
         int num1 = kb.nextInt();
+        //Displaying second prompt
+        System.out.println("Now please, insert a second number");
+        //Second input
+        int num2 = kb.nextInt();
+        
+        
     }
     
 }
