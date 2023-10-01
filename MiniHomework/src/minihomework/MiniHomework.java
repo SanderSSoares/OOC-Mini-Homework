@@ -32,7 +32,7 @@ public class MiniHomework {
         
         int sum = num1+num2;
         
-        System.out.println("The SUM of " + num1+"+ " +num2+" is " +sum +" !");
+        System.out.println("The SUM of " + num1+"+" +num2+" is " +sum +".");
         
         
     }
